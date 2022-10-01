@@ -1,3 +1,4 @@
 1. The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing
 2. Generative and Discriminative Text Classification with Recurrent Neural Networks
 3. https://aclanthology.org/Q18-1041.pdf
+Deep Learning Based Text Classification: A Comprehensive Review
